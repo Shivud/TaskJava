@@ -3,7 +3,7 @@ public class Fact{
        int i,fact=1;
         int num=5;
 
-        for(int i=1;i <=5;i++)
+        for(i=1;i <=5;i++)
         {
             fact=fact*i;
         }
